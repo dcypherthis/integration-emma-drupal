@@ -1,0 +1,8 @@
+name: Emma
+type: module
+description: Emma email service integration.
+package: Emma
+core: 8.x
+version: 2.0
+
+configure: admin/config/services/emma
